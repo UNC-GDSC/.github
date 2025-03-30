@@ -58,7 +58,9 @@ Stay tuned for our regular events and workshops, including:
 - **Tech Talks & Webinars:** Learn from industry professionals and experienced developers.
 - **Workshops:** Hands-on sessions to dive deep into specific technologies and frameworks.
 
-For the latest updates on our events, check out our [club website](https://unc-gdsc.example.com) or follow us on our social media channels.
+For the latest updates on our events, check out our [club IG](https://www.instagram.com/dsc_unc/) or follow us on our social media channels. 
+
+> Note: Typically, our events are reserved for UNC-CH students, and are only organized on the UNC campus. However, we do offer a number of events for outsiders, too. Stay tuned!
 
 ---
 
@@ -73,9 +75,9 @@ For the latest updates on our events, check out our [club website](https://unc-g
 ## Contact Us
 
 For any questions, suggestions, or support, please reach out:
-- **Email:** gdsc@unc.edu
-- **Website:** [UNC-GDSC Club](https://unc-gdsc.example.com)
-- **Social Media:** Connect with us on Twitter, LinkedIn, and Instagram.
+- **Email:** [uncgdsc@gmail.com](uncgdsc@gmail.com)
+- **GitHub:** [https://github.com/UNC-GDSC](https://github.com/UNC-GDSC)
+- **Social Media:** [https://www.instagram.com/dsc_unc/](https://www.instagram.com/dsc_unc/)
 
 ---
 
@@ -85,4 +87,4 @@ All projects in this organization are typically licensed under the MIT License u
 
 ---
 
-*Together, we code the future! Welcome to UNC-GDSC Club – where innovation meets collaboration.*
+*Together, we code the future! Welcome to UNC-GDSC Club – where innovation meets collaboration.* 

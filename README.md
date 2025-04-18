@@ -2,6 +2,8 @@
 
 Welcome to the official GitHub organization for the UNC-Chapel Hill Google Developer Student Club (GDSC)! Our organization is a collaborative hub where students, developers, and enthusiasts come together to build innovative, open source projects, learn new technologies, and solve real-world challenges.
 
+[https://www.unc.edu/](https://www.unc.edu/)
+
 ---
 
 ## About Us
